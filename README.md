@@ -1,5 +1,5 @@
 <div align="center">
-# SkyThought for Phi4
+# SkyThought for Phi4 trained 3 epochs. Evals didnt move double digits.
 </div>
 
 # Links
